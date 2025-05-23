@@ -5,9 +5,14 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  - enabled: 0
+    path: Assets/ArcadeIdleEngine/Demo/_Scenes/Booting.unity
+    guid: 6758ce2638f654b7695a5d4ac785eaf2
+  - enabled: 0
+    path: Assets/ArcadeIdleEngine/Demo/_Scenes/Showcase.unity
+    guid: 6dd483661810b8341bedc240271b220d
+  - enabled: 0
+    path: Assets/ArcadeIdleEngine/Demo/_Scenes/Sample Game.unity
+    guid: fac098ddc0a9d46e69ce466f1847edd8
+  m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
